@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645662903 source:d:\importante\info\probleme info\pb free time\experimente\jocuri simple\snake\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
